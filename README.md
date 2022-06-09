@@ -1,10 +1,10 @@
-# _New Project_
+# _Transportation Survey_
 
 #### By _**Liam Campbell_
 
-#### _{Brief description of application}_
+#### _This application is a survey regarding transportation_
 
-![A cartoon image of people voting](img/vote.jpeg)
+![An image featuring different types of transportation](img/transportation.jpeg)
 
 ## Technologies Used
 
@@ -16,14 +16,14 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This is an application that surveys the ways that the user commutes both to work and for other activities. The user can mark multiple modes of transportation in the check boxes for each reason for commuting and then the program will use JavaScript to compile their results at the bottom of the page. _
 
 ## Setup/Installation Requirements
 
-* _Clone the git repository github.com/lcmpbll/voter.git to your desktop_
+* _Clone the git repository github.com/lcmpbll/transportation-survey.git to your desktop_
 * _Navigate to the top level of the directoy._
 * _Open index.html in your browser._
-* _easy-to-understand_
+
 
 
 
@@ -36,4 +36,4 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 _Feel free to reach out via [Github](github.com.lcmpbll) to provide feedback on this project or to view my other projects._
 
-[Copyright](LICENSE) (c) _date_ _author name(s)_
+[Copyright](LICENSE) (c) _6-9-2022_ _Liam Campbell)_
