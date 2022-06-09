@@ -5,7 +5,7 @@ $(document).ready(function() {
 		$("#work-responses").show();
 		$("#fun-responses").show();
 		$("input:checkbox[name=fun-transportation]:checked").each(function(){
-			const workTransportationMode = $(this).val();
+			const funTransportationMode = $(this).val();
 			$("#fun-responses").append(funTransportationMode + "<br>");
 		});
 		$("input:checkbox[name=work-transportation]:checked").each(function() {
